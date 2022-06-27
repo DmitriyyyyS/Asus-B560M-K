@@ -60,7 +60,7 @@ Kexts and Bootloader:
 
 All important fixes for the correct operation of USB are already registered in SSDT1.aml, nothing else needs to be done for USB.
 
-![PRIME B560M-K](./Other/img/spec_pc2.png)
+![PRIME B560M-K](./Other/img/spec_pc3.png)
 
 USB Ports
 
