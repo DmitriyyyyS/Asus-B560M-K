@@ -23,7 +23,7 @@ Checked on:
 
 Bootloader:
 
-- Open Core 0.8.2
+- Open Core 0.8.3
 
 BIOS:
 - PRIME B560M-K [BIOS 1605](https://www.asus.com/ru/Motherboards-Components/Motherboards/PRIME/PRIME-B560M-K/HelpDesk_BIOS/)
