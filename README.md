@@ -18,7 +18,7 @@ Installing macOS Hackintosh on ASUS-B560M-K
 
 Checked on:
 
-- macOS [Ventura Beta3+](https://www.apple.com/macos/macos-ventura-preview/)
+- macOS [Ventura Beta4](https://www.apple.com/macos/macos-ventura-preview/)
 - macOS [Monterey 12.4+](https://www.apple.com/ua/macos/monterey/)
 
 Bootloader:
